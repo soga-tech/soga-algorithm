@@ -9,7 +9,7 @@
     <a href="https://github.com/soga-tech/soga-algorithm"> <img src="https://badgen.net/github/forks/soga-tech/soga-algorithm?icon=github&color=4ab8a1"></a>
 </div>
 <p align="center">
-    Record some algorithms to solve the problem
+    🚀 Record some algorithms to solve the problem
 </p>
 
 <br>
