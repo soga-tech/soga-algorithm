@@ -16,7 +16,17 @@
 
 <br>
 
-## :pencil2: 目录
+## 📖 目录
 
 - [剑指 Offer](https://github.com/soga-tech/soga-algorithm)
 - [Leetcode](https://github.com/soga-tech/soga-algorithm)
+
+## ✅ 剑指 Offer
+
+| No.    |  Title  |  Solution  |  Difficulty |  Category |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+
+## ✅ Leetcode
+
+| No.    |  Title  |  Solution  |  Difficulty |  Category |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
