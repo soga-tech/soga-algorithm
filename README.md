@@ -16,14 +16,14 @@
 
 ## 📖 目录
 
-- [剑指offer](https://github.com/soga-tech/soga-algorithm) （ 题目来自 [牛客网](https://www.nowcoder.com/ta/coding-interviews) ）
+- [剑指offer](https://github.com/soga-tech/soga-algorithm/tree/main/SwordOffer) （ 题目来自 [牛客网](https://www.nowcoder.com/ta/coding-interviews) ）
 - [LeetCode](https://github.com/soga-tech/soga-algorithm) （ 题目来自 [力扣 (LeetCode) ](https://leetcode-cn.com/problemset/all/) ）
 
 ## ✅ 剑指 Offer
 
 | No.    |  Title  |  Solution  |  Difficulty |  Category |
 |:--------:|:----------------:|:--------:|:--------:|:--------:|
-|1|二维数组中的查找|[Java](https://github.com/soga-tech/soga-algorithm)|较难|数组|
+|1|二维数组中的查找| |较难|数组|
 |2|替换空格| |较难|字符串|
 |3|从尾到头打印链表| |较难|链表|
 |4|重建二叉树| |中等|数组|
